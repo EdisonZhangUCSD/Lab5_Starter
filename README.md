@@ -4,7 +4,7 @@
 - Edison Zhang
 
 ## GitHub Pages Links
-[Replace these URLs with your actual GitHub Pages URLs after deployment]
+
 - Party Horn (expose.html): https://edisonzhangucsd.github.io/Lab5_Starter/expose.html
 - Speech Synthesis (explore.html): https://edisonzhangucsd.github.io/Lab5_Starter/explore.html
 
